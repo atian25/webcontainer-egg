@@ -1,0 +1,19 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "egg": "^2",
+    "egg-view-nunjucks": "^2",
+    "egg-scripts": "^2"
+  },
+  "devDependencies": {
+    "egg-bin": "^4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start2": "egg-scripts start",
+    "dev": "egg-bin dev",
+    "debug": "egg-bin debug"
+  }
+}
