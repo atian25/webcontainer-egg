@@ -11,9 +11,6 @@
     "egg-bin": "^4"
   },
   "scripts": {
-    "start": "node index.js",
-    "start2": "egg-scripts start",
-    "dev": "egg-bin dev",
-    "debug": "egg-bin debug"
+    "start": "node index.js"
   }
 }
