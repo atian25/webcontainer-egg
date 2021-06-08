@@ -2,7 +2,7 @@
 
 ## What is Egg.js
 
-Egg.js is an framework for building better enterprise frameworks and apps with Node.js.
+[Egg.js](https://github.com/eggjs) is an framework for building better enterprise frameworks and apps with Node.js.
 
 It's opensource by Alibaba, and widely used at China.
 
